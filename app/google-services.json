@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "665986713699",
+    "firebase_url": "https://tugasuts-eaa6d.firebaseio.com",
+    "project_id": "tugasuts-eaa6d",
+    "storage_bucket": "tugasuts-eaa6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665986713699:android:81638ef5dccf589cc71056",
+        "android_client_info": {
+          "package_name": "com.sheiladita.tugasuts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665986713699-j88hmnd75481sq1a7ih96nhtmue263c5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sheiladita.tugasuts",
+            "certificate_hash": "66886cea6e9f2fd889ae1f062f2052cbbb1efdf8"
+          }
+        },
+        {
+          "client_id": "665986713699-2m5j5cj990t4mn3i99his2741qk2hdg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc11nrrLSWrrXjVyrocvVbZcAa0Opo_Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665986713699-2m5j5cj990t4mn3i99his2741qk2hdg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="myprofile">My Profile</string>
+    <string name="cheesetea">Cheese Tea</string>
+    <string name="nama">Sheiladita Afifa</string>
+    <string name="ttl">Palembang, 1 Maret 1999</string>
+    <string name="alamat">Jln. Demang Lebar Daun Komp. Bukit\nDemang Azhar Blok A-1 Palembang</string>
+    <string name="agama">Islam</string>
+    <string name="notelp">082177996750</string>
+    <string name="gmail">sheiladita@gmail.com</string>
+    <string name="sd">SD Patra Mandiri 2 Palembang</string>
+    <string name="smp">SMP Negeri 1 Palembang</string>
+    <string name="sma">SMAN 17 Palembang</string>
+    <string name="universitas">Universitas Sriwijaya</string>
+    <string name="culinary">Culinary</string>
+    <string name="koreandrama">Korean Drama</string>
+    <string name="kliklebihlanjut">Klik Lebih Lanjut</string>
+    <string name="more">More</string>
+    <string name="bakso">Bakso</string>
+    <string name="nasigoreng">Nasi Goreng</string>
+    <string name="nasipadang">Nasi Padang</string>
+    <string name="pempek">Pempek</string>
+    <string name="sate">Sate</string>
+    <string name="siomay">Siomay</string>
+    <string name="goblin">Goblin</string>
+    <string name="itsokaythatlove">Its Okay, Thats Love</string>
+    <string name="memoriesofalhambra">Memories of the\nAlhambra</string>
+    <string name="skycastle">Sky Castle</string>
+    <string name="teriusbehindme">Terius Behind Me</string>
+    <string name="whenthecamelliablooms">When the Camellia Blooms</string>
+    <string name="isibakso">Bakso atau baso adalah jenis bola daging yang lazim\nditemukan pada masakan Indonesia.
+        Bakso umumnya dibuat dari campuran daging sapi giling dan tepung tapioka, akan tetapi ada juga bakso
+        yang terbuat dari daging ayam, ikan, atau udang bahkan daging kerbau. Dalam penyajiannya, bakso umumnya disajikan
+        panas-panas dengan kuah kaldu sapi bening, dicampur mi, bihun, taoge, tahu, terkadang telur dan ditaburi bawang goreng
+        dan seledri.\nBakso sangat populer dan dapat ditemukan di seluruh Indonesia; dari gerobak pedagang kaki lima hingga restoran
+        besar. Berbagai jenis bakso sekarang banyak ditawarkan dalam bentuk makanan beku yang dijual di pasar swalayan ataupun mal-mal.
+        Irisan bakso dapat juga dijadikan pelengkap jenis makanan lain seperti mi goreng, nasi goreng, atau cap cai.</string>
+    <string name="isinasigoreng">Nasi goreng adalah sebuah makanan berupa nasi yang digoreng dan diaduk dalam minyak goreng atau margarin,
+        biasanya ditambah kecap manis, bawang merah, bawang putih, asam jawa, lada dan bumbu-bumbu lainnya, seperti telur, ayam, dan kerupuk.
+        Ada pula nasi goreng jenis lain yang dibuat bersama ikan asin yang juga populer di seluruh Indonesia.
+        Nasi goreng juga dikenal sebagai masakan nasional Indonesia. Dari sekian banyak hidangan dalam khazanah Masakan Indonesia, hanya sedikit
+        yang dapat dianggap sebagai makanan nasional sejati. Masakan nasional Indonesia ini tidak mengenal batasan kelas sosial. Nasi goreng dapat
+        dinikmati secara sederhana di warung tepi jalan, gerobak penjaja keliling, hingga restoran dan meja prasmanan dalam pesta.</string>
+    <string name="isinasipadang">Nasi Padang adalah nasi putih yang disajikan dengan berbagai macam lauk pauk khas Indonesia. Padang merujuk pada ibu
+        kota provinsi Sumatra Barat, kampung halaman orang Minangkabau. Nasi Padang adalah sebuah hidangan yang disajikan secara lengkap secara prasmanan
+        dengan daging, ikan, sayuran, dan makanan pedas dimakan dengan nasi putih, itu adalah komoditas ekspor paling terkenal dan masyarakat minangkabau
+        mempunyai kontribusi yang besar untuk masakan Indonesia</string>
+    <string name="isipempek">Pempek atau empek-empek adalah makanan khas Palembang yang terbuat dari daging ikan yang digiling lembut dan tepung kanji
+        (secara salah kaprah sering disebut sebagai "tepung sagu"), serta beberapa komposisi lain seperti telur, bawang putih yang dihaluskan, penyedap
+         rasa dan garam. Sebenarnya sulit untuk mengatakan bahwa penganan pempek pusatnya adalah di Palembang karena hampir semua daerah di Sumatera Selatan
+         memproduksinya.</string>
+    <string name="isisate">Sate (ejaan KBBI: satai) adalah makanan yang terbuat dari daging yang dipotong kecil-kecil dan ditusuk sedemikian rupa dengan
+        tusukan lidi tulang daun kelapa atau bambu kemudian dipanggang menggunakan bara arang kayu. Sate disajikan dengan berbagai macam bumbu yang
+        bergantung pada variasi resep sate.Daging yang dijadikan sate antara lain daging ayam, kambing, domba, sapi, babi, kelinci, kuda, dan lain-lain.
+        Biasanya sate diberi saus. Saus ini bisa berupa bumbu kecap, bumbu kacang, atau yang lainnya, biasanya disertai acar dari irisan bawang merah,
+        mentimun, dan cabai rawit. Sate dimakan dengan nasi hangat atau, kalau di beberapa daerah disajikan dengan lontong atau ketupat.</string>
+    <string name="isisiomay">Dalam masakan Indonesia terdapat berbagai jenis variasi siomai berdasarkan daging untuk isi, mulai dari siomai ikan tenggiri,
+        ayam, udang, kepiting, atau campuran daging ayam dan udang. Bahan untuk isi dicampur dengan sagu atau tapioka. Di beberapa daerah, siomai tidak
+        selalu dibungkus dengan kulit dari tepung terigu (kulit Pangsit).
+        Siomai biasanya disajikan dengan beberapa jenis bahan pelengkap. Pelengkap siomai yang biasa disajikan antara lain telur ayam rebus dan sayuran
+        seperti kentang, peria dan kubis. Sebelum dihidangkan, biasanya siomai dan bahan pelengkapnya dikukus agar dapat disajikan dalam kondisi hangat.
+        Tahu bakso (tahu putih dan tahu kulit yang diisi adonan tapioka) juga dapat dimasukkan ke dalam jenis siomai. Karena itulah di Jawa Barat, siomai
+        juga populer dengan sebutan Bakso Tahu.
+        Siomai umumnya dihidangkan dengan siraman saus kacang yang dibuat dari kacang tanah yang dihaluskan dan diencerkan dengan air. Bumbu untuk saus
+        kacang ini antara lain cabai merah, bawang putih, gula pasir, asam jawa, bawang putih, garam dapur, dan cuka. Sewaktu disajikan, siomai bisa
+        ditambahkan kecap manis, sambal botol dan perasan jeruk limau.</string>
+    <string name="sinopsisgoblin">In ancient times, Kim Shin (Gong Yoo) is an unbeatable general in wars, but the young King (Kim Min-Jae) is jealous
+        of Kim Shin and kills him. Kim Shin becomes Dokkaebi (Goblin), possessing an immortal life. At first he thinks that he is blessed, but he realizes
+        that he is cursed.\nCloser to the present day, Kim Shin has waited 900 years for a human bride to end his immortal life. One night, he saves a dying pregnant woman
+        (Park Hee-Von) who is destined to die. Meanwhile, the Grim Reaper (Lee Dong-Wook) is unable to find the dead pregnant woman. The woman gives birth
+        to a baby girl named Ji Eun-Tak (later played by Kim Go-Eun). 9 years later, Ji Eun-Tak lives with her mother and is able to see ghosts. One night,
+        her mother suddenly dies. On that night, she meets the Grim Reaper.\nIn the present day, Ji Eun-Tak is a high school student. She still sees ghosts
+        and hears their whisper of “Dokkaebi’s bride.” She now lives with her aunt’s family, but she is mistreated by them. On her birthday, Ji Eun-Tak sits
+        by the sea with a lighted birthday cake. At that time, Kim Shin suddenly appears in front of her. Kim Shin does not know why, but he can hear her voice
+        and appears in front of her against his will. Coincidentally, Kim Shin lives with the Grim Reaper at the same house.\nNow, Kim Shin appears in front of her
+        against his will, whenever she turns off the lights. One day, Ji Eun-Tak tells him that he is Dokkaebi and she is his bride.</string>
+    <string name="sinopsisitsokay">Jang Jae-yeol is an author of bestselling mystery novels and a radio DJ. Playful and a bit arrogant, he also suffers from obsessive–compulsive disorder.
+        Jang Jae-yeol was assaulted by his father when he was young. And his mother accidentally killed his father but he falsely testified that his brother killed his father. That guilt
+        leads him to develop obsessive-compulsive disorder. Ji Hae-soo is a psychiatrist on her first year of fellowship. Driven and ambitious with her career yet compassionate towards her patients,
+        Hae-soo has a negative attitude towards love and relationships in her personal life. Once Jae-yeol and Hae-soo meet, there is much contention between them caused by their strong personalities
+        and refusal to give in to each other. But slowly their bickering turns into love and they begin to learn how compatible they are. Jae-yeol and Hae-soo attempt to heal each other\'s deep-seated wounds,
+        but their fledgling relationship takes a blow when they learn that Jae-yeol\'s mental health issues are more serious than they initially suspected</string>
+    <string name="sinopsisalhambra">Yoo Jin-Woo (Hyun-Bin) is the CEO of an investment company. He has good sense at his work, a strong adventurous spirit and a strong
+        desire for winning. Yoo Jin-Woo is going through a hard time emotionally due to things like betrayal from his friends. He visits Granada, Spain on business and
+        stays at an old hostel run by Jung Hee-Joo (Park Shin-Hye). There, Yoo Jin-Woo gets involved in a strange affair.</string>
+    <string name="sinopsisskycastle">"SKY Castle" follows the lives of 4 women living in luxurious SKY Castle neighborhood. They try make their husbands more successful
+        and raise their children like prince and princesses.\nHan Seo-Jin (Yum Jung-Ah) is married to orthopedic surgeon Kang Joon-Sang (Jung Joon-Ho). They have two daughters.
+        Han Seo-Jin seems to have a perfect life, but she has a secret.\nLee Soo-Im (Lee Tae-Ran) is a writer of children\'s books. She holds a deep affection and consideration for people.
+        Lee Soo-Im is married to neurosurgeon Hwang Chi-Young (Choi Won-Young). They have a son.\nNo Seung-Hye (Yoon Se-Ah) is married to law school professor Cha Min-Hyuk (Kim Byung-Chul).
+        Her husband talks about justice and happiness, but he hides a different side. One with having extreme egoism. They have two sons.\nJin Jin-Hee (Oh Na-Ra) comes from a wealthy family.
+        Her father owns buildings. Jin Jin-Hee admires Han Seo-Jin and tries to copy what she does. Like Han Seo-Jin, Jin Jin-Hee is married to an orthopedic surgeon, Woo Yang-Woo (Jo Jae-Yun).
+    </string>
+    <string name="sinopsisterius">Go Ae-Rin (Jung In-Sun) suddenly loses her husband. A mysterious man, Kim Bon (So Ji-Sub), lives next door. Kim Bon is a legendary NIS agent. 3 years ago, he
+        was involved in a failed secret operation and the woman he loved died. He has since become disconnected with the world and lives alone quietly. He helps his neighbor Go Ae-Rin uncover
+        a conspiracy, which her husband became involved with.</string>
+    <string name="sinopsiscamellia">Dong-Baek (Kong Hyo-Jin) gets involved with 3 men including Yong-Sik (Kang Ha-Neul). The 3 men consists of a good man, a bad man and a mean man.</string>
+</resources>
